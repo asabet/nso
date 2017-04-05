@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-config xmlns="http://tail-f.com/ns/config/1.0">
+<config xmlns="http://tail-f.com/ns/config/1.0">
   <nfvo xmlns="http://tail-f.com/pkg/tailf-etsi-rel2-nfvo">
     <vnfd>
       <id>CSR_3port_VNFD</id>
